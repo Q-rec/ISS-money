@@ -4,7 +4,7 @@ The project „the expenses of the ISS“ was the second part of the course [Ein
 
 ###Quick Explenation
 
->The Task was to make a data visualization, with the main theme **the ISS**.
+>The Task was to create a data visualization, with the main theme **ISS**.
 
 The first decision was which aspect of the ISS you wanted to cover.
 I tried to make a quick and simple overview of all money that has been spend to build and maintain the International Space Station.
