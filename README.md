@@ -14,4 +14,4 @@ I wanted to create a poster. In order to make a data visualization i used differ
 
 The colors concerning of the Cosmos, or the earth „the blue planet“. The logo on top is drawing of the ISS. The poster was made completely in Adobe Illustrator.
 
-![poster](link)
+![poster](https://github.com/Q-rec/ISS-money/blob/master/images/ISS.png)
